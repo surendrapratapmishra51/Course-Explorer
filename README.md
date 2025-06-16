@@ -26,7 +26,7 @@ A sleek and responsive course listing interface built using **React** and **Tail
 - Dynamic filtering by category (Development, Business, Design, Lifestyle)
 
   ![Image](courseExploreImage.png)
-  ![Image](courseExploreImage.png)
+  ![Image](courseExploreImage1.png)
 - Responsive UI using Tailwind CSS
 - Reusable components
 - Clean and readable structure
